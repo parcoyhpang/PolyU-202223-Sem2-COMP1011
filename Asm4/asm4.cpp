@@ -1,7 +1,7 @@
 /**
 
 PANG Yu Him #22083893D
-COMP1011 - Lab 4 - Assignment 2
+COMP1011 - Lab 6 - Assignment 4
 Copyright (c) 2023 PARCO YH PANG 
 The usual MIT license applies.
 Say hi: info@parcopang.com ** parcopang.com
